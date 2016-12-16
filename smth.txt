@@ -1,3 +1,0 @@
-text
-text
- git remote set-url origin https://KateMas:06tpmzyrf@github.com/KateMas/hillel.git
